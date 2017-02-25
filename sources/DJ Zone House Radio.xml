@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<source>
+	<stream bitrate="128">http://80.83.123.210:9986</stream>
+	<name>DJ Zone House Radio</name>
+	<tagline>We house the music</tagline>
+	<description>The best Bulgarian house radio station</description>
+	<genre>House</genre>
+	<fanart>DJ Zone House Radio-fanart.jpg</fanart>
+	<thumb>DJ Zone House Radio-thumb.png</thumb>
+	<scraper type="tunein">
+		<url>http://tunein.com/radio/DJ-ZONE-House-Radio-s244163/</url>
+		<delay>20</delay>
+	</scraper>
+</source>
