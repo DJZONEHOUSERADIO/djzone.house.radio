@@ -8,7 +8,7 @@
 		<provides>audio</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_gb">Listen to custom radio streams with station fanart and on-screen track information</summary>
+		<summary lang="en_gb">Listen DJ ZONE HOUSE RADIO online</summary>
 		<description lang="en_gb"/>
 		<disclaimer lang="en_gb"/>
 		<language/>
@@ -28,9 +28,5 @@
 			<icon>resources/media/icon.png</icon>
 		</assets>
 	</extension>
-	<extension point="xbmc.addon.repository">
-		<info>http://dev.rocketchilli.com/kodi-repo/addons.xml</info>
-		<checksum>http://dev.rocketchilli.com/kodi-repo/addons.xml.md5</checksum>
-		<datadir zip="true">http://dev.rocketchilli.com/kodi-repo/addons</datadir>
-	</extension>
+	
 </addon>
